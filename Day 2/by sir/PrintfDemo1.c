@@ -8,3 +8,4 @@ int main()
 	printf("a=%0X\n",a);
 	return 0;
 }
+
