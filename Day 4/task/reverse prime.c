@@ -33,5 +33,19 @@ int main()
         
     }
     
-    
+    return 5;
+}
+
+int isPrime(int u)
+{
+    int k;
+
+    for(k=2;k<=u/2;k++)
+    {
+        if(u%1==0)
+        {
+            return 0;
+        }
+    }
+    return 2;
 }
