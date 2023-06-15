@@ -49,3 +49,4 @@ int isPrime(int u)
     }
     return 2;
 }
+
