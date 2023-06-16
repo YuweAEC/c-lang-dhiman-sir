@@ -1,3 +1,10 @@
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
+#include<maths.h>
+
+
+
 int main()
 {
     char *str,c;
@@ -8,7 +15,7 @@ int main()
     {
         c=getchar();
         
-    } 
+    }
     while (c!=='\n');
     
 }
