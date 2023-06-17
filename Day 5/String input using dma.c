@@ -19,3 +19,4 @@ int main()
     while (c!=='\n');
     
 }
+
