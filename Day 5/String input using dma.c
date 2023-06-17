@@ -3,8 +3,6 @@
 #include<stdlib.h>
 #include<maths.h>
 
-
-
 int main()
 {
     char *str,c;
